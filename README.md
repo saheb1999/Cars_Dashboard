@@ -74,8 +74,7 @@ The dashboard is structured across four major tabs:
 ## 🧰 Tools & Tech
 
 * **Microsoft Excel** – Used for initial data cleaning and preparation.
-* **SQL** – Performed joins and transformations across five datasets:
-
+* **SQL** – Data Cleaning and Manipulation. Performed joins and transformations across five datasets:
   * Car details
   * Owner details
   * Insurance data
