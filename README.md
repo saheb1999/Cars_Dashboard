@@ -94,5 +94,6 @@ The dashboard is structured across four major tabs:
 > Add your screenshots to the `/assets` folder and embed here using:
 
 ```markdown
-![Dashboard Screenshot](assets/screenshot.png)
+![Dashboard Screenshot]([assets/screenshot.png](https://github.com/saheb1999/Cars_Dashboard/blob/main/Cars_data_dash_img.png))
+![Overview_1st _page_img]([assets/screenshot.png](https://github.com/saheb1999/Cars_Dashboard/blob/main/Cars_data_dash_img.png))
 ```
